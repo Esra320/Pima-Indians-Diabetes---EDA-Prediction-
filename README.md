@@ -1,7 +1,7 @@
-# Pima-Indians-Diabetes---EDA-Prediction- 
+# :airplane:Diabetes & EDA & Prediction:airplane: 
 **Pima indians diabetes veri kümesi kullanılarak veri analizi ve makine öğrenmesi modeli eğitimi :star: :closed_book:**
 ---
-:airplane:Bu kılavuz, makine öğrenimi çalışmalarını tamamlamak için aşağıdaki adımlarla ilgili rehberlik sunar:
+Bu kılavuz, makine öğrenimi çalışmalarını tamamlamak için aşağıdaki adımlarla ilgili rehberlik sunar:
 
 1. Eksik değerlerin yerine konması
 2. Keşfedici veri analizi
