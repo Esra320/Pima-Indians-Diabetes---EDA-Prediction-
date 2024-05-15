@@ -1,7 +1,7 @@
 # Pima-Indians-Diabetes---EDA-Prediction- 
-**Pima indians diabetes veri kümesi kullanılarak veri analizi ve makine öğrenmesi modeli eğitimi :star:**
+**Pima indians diabetes veri kümesi kullanılarak veri analizi ve makine öğrenmesi modeli eğitimi :star: :closed_book:**
 ---
-Bu kılavuz, makine öğrenimi çalışmalarını tamamlamak için aşağıdaki adımlarla ilgili rehberlik sunar:
+:airplane:Bu kılavuz, makine öğrenimi çalışmalarını tamamlamak için aşağıdaki adımlarla ilgili rehberlik sunar:
 
 1. Eksik değerlerin yerine konması
 2. Keşfedici veri analizi
