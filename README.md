@@ -26,7 +26,7 @@ Bu veri kümesi orijinal olarak Ulusal Diyabet ve Sindirim ve Böbrek Hastalıkl
 - Age : Yaş(yıl)
 - DiabetesPedigreeFunction : aile geçmişine dayalı olarak diyabet olasılığını puanlar
 - Outcome : 0 (diyabet hastası değil) veya 1 (diyabet hastası)
----
+
 **Proje hakkında:** Bu projenin amacı bir kişinin diyabet hastası olup olmadığını sınıflandırmaktır. Veri seti birkaç Tıbbi Değişkenden (Bağımsız) ve bir Sonuç Değişkeninden (Bağımlı) oluşur Bu veri setindeki bağımsız değişkenler şunlardır: 'Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin','BMI', 'DiabetesPedigreeFunction', 'Age' Sonuç değişkeni değeri, kişinin diyabet hastası olup(1) olmadığını(0) belirten 1 veya 0'dır.
 ---
 
