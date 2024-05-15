@@ -17,15 +17,15 @@ Bu veri kümesi orijinal olarak Ulusal Diyabet ve Sindirim ve Böbrek Hastalıkl
 
 **Veri Kümesi Hakkında:** Veri kümesinde yer alan özellikler ve açıklamaları:
 
-Pregnancies : Bir kadının hamile kalma sayısı
-Glucose : Oral glukoz tolerans testinde 2 saatlik Plazma Glikoz konsantrasyonu
-BloodPressure : Diyastolik Kan Basıncı (mm hg)
-SkinThickness : Triceps cilt kıvrım kalınlığı (mm)
-Insulin : 2 saatlik serum insülini(mu U/ml)
-BMI : Vücut Kitle İndeksi ((kg cinsinden ağırlık/m cinsinden boy)^2)
-Age : Yaş(yıl)
-DiabetesPedigreeFunction : aile geçmişine dayalı olarak diyabet olasılığını puanlar
-Outcome : 0 (diyabet hastası değil) veya 1 (diyabet hastası)
+- Pregnancies : Bir kadının hamile kalma sayısı
+- Glucose : Oral glukoz tolerans testinde 2 saatlik Plazma Glikoz konsantrasyonu
+- BloodPressure : Diyastolik Kan Basıncı (mm hg)
+- SkinThickness : Triceps cilt kıvrım kalınlığı (mm)
+- Insulin : 2 saatlik serum insülini(mu U/ml)
+- BMI : Vücut Kitle İndeksi ((kg cinsinden ağırlık/m cinsinden boy)^2)
+- Age : Yaş(yıl)
+- DiabetesPedigreeFunction : aile geçmişine dayalı olarak diyabet olasılığını puanlar
+- Outcome : 0 (diyabet hastası değil) veya 1 (diyabet hastası)
 ---
 **Proje hakkında:** Bu projenin amacı bir kişinin diyabet hastası olup olmadığını sınıflandırmaktır. Veri seti birkaç Tıbbi Değişkenden (Bağımsız) ve bir Sonuç Değişkeninden (Bağımlı) oluşur Bu veri setindeki bağımsız değişkenler şunlardır: 'Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin','BMI', 'DiabetesPedigreeFunction', 'Age' Sonuç değişkeni değeri, kişinin diyabet hastası olup(1) olmadığını(0) belirten 1 veya 0'dır.
 
